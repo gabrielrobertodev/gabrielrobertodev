@@ -14,6 +14,6 @@ Olá. Me **Gabriel Roberto**, sou estudante de Análise e Desenvolvimento de Sis
 "estudando": ["HTML", "CSS", "JavaScript", "Python", "SQL", "C"],
 }
 ```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,mysql,python" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,mysql,py" alt="C, HTML, CSS, JavaScript, MySQL e Python" />
+</div>

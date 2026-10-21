@@ -10,13 +10,7 @@ Olá! Eu sou Gabriel Roberto, estudante de Análise e Desenvolvimento de Sistema
   "nome": "Gabriel Roberto",
   "função": "Dev Front-End em formação",
   "localização": "São Paulo, SP - Brasil",
-  "estudando": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Python",
-    "SQL",
-    "C"]
+  "estudando": ["HTML", "CSS", "JavaScript", "Python", "SQL", "C"]
 }
 ```
 

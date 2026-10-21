@@ -5,6 +5,7 @@
 Gabriel Roberto
 
 Olá! Eu sou Gabriel Roberto, estudante de Análise e Desenvolvimento de Sistemas (ADS). Atualmente estou desenvolvendo meus conhecimentos em C, HTML, CSS, JavaScript, Python e SQL. Tenho interesse em seguir na área de desenvolvimento de software, explorando também o desenvolvimento back-end e tecnologias voltadas à construção de sistemas.
+```json
 {
   "nome": "Gabriel Roberto",
   "função": "Dev Front-End em formação",
@@ -15,9 +16,9 @@ Olá! Eu sou Gabriel Roberto, estudante de Análise e Desenvolvimento de Sistema
     "JavaScript",
     "Python",
     "SQL",
-    "C"
-  ]
+    "C"]
 }
+```
 
 Tecnologias que estou estudando
 

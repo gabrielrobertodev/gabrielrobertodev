@@ -2,10 +2,11 @@
 <img width="1200" height="399" alt="Banner pixel art" src="https://github.com/user-attachments/assets/bf7a0994-53de-4394-a24d-6aba950a756d" />
 </div>
 
-Gabriel Roberto
+**Gabriel Roberto**
 
 Olá! Eu sou Gabriel Roberto, estudante de Análise e Desenvolvimento de Sistemas (ADS). Atualmente estou desenvolvendo meus conhecimentos em C, HTML, CSS, JavaScript, Python e SQL. Tenho interesse em seguir na área de desenvolvimento de software, explorando também o desenvolvimento back-end e tecnologias voltadas à construção de sistemas.
 
+```json
 {
   "nome": "Gabriel Roberto",
   "função": "Dev Front-End em formação",
@@ -19,6 +20,7 @@ Olá! Eu sou Gabriel Roberto, estudante de Análise e Desenvolvimento de Sistema
     "C"
   ]
 }
+```
 
 Tecnologias que estou estudando
 

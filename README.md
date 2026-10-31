@@ -1,5 +1,7 @@
 <div align="center">
-<img width="1200" height="399" alt="Banner pixel art" src="https://github.com/user-attachments/assets/bf7a0994-53de-4394-a24d-6aba950a756d" />
+<p align="center">
+  <img src="./banner_github.jpeg" alt="Capa do perfil" width="100%">
+</p>
 </div>
 
 **Gabriel Roberto**
